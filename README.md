@@ -1,2 +1,2 @@
 # ITG
-Jira integration ITG
+Jira GitHub integration ITG
